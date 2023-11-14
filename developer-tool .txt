@@ -1,0 +1,13 @@
+Google Material Symbols & Fonts -
+https://fonts.google.com/icons
+
+symbol,emoji and unicode-
+https://www.rapidtables.com/code/text/unicode-characters.html
+
+Picking colors from sources-
+https://www.colorzilla.com/
+
+color pattern-
+www.coolors.co
+
+...will be loaded
