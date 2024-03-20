@@ -1,6 +1,12 @@
 Google Material Symbols & Fonts -
 https://fonts.google.com/icons
 
+font-awesome font and icons - 
+https://fontawesome.com/
+
+font-awesome cdn - 
+https://cdnjs.com/libraries/font-awesome
+
 symbol,emoji and unicode-
 https://www.rapidtables.com/code/text/unicode-characters.html
 
